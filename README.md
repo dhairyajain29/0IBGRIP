@@ -1,5 +1,5 @@
 # 0IBGRIP-1
-Task1 An unit converter application. 
+Task1 An unit converter Mobile application. 
 
 In this Unit converter application we can convert kilogram to pound and gram.
 It is made in android studio.
